@@ -10,6 +10,7 @@ built as part of the CodeAlpha AI Internship Program.
 - 🌍 18+ Language Support
 - 🌙 Dark / Light Mode
 - 🔊 Text-to-Speech
+- 
 - 📋 Copy to Clipboard
 - 🔄 Swap Languages
 - 📱 Fully Responsive
@@ -23,11 +24,8 @@ built as part of the CodeAlpha AI Internship Program.
 - MyMemory Translation API
 
 ## 🚀 Live Demo
-[Click here to view live]
-(https://username.github.io/CodeAlpha_LanguageTranslationTool)
+(https://shyncode.github.io/CodeAlpha_LanguageTranslationTool/)
 
-## 📸 Screenshot
-(Add your screenshot here)
 
 ## 🔧 How to Run
 1. Clone the repo
@@ -35,12 +33,12 @@ built as part of the CodeAlpha AI Internship Program.
 3. Start translating!
 
 ## 👨‍💻 Author
-Your Name
-- LinkedIn: [your linkedin]
-- GitHub: [your github]
+Your Name: Shayan Khan
+- LinkedIn: [www.linkedin.com/in/shayan-khan-243392317]
+- GitHub: [[your github](https://github.com/ShynCode)]
 
 ## 📄 License
 This project is open source under MIT License.
 
 ---
-⭐ Star this repo if you found it helpful!
+
