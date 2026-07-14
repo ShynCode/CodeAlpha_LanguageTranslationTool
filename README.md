@@ -23,25 +23,23 @@ A responsive Language Translation Tool developed as **Task 1** during the **Code
 
 https://shyncode.github.io/CodeAlpha_LanguageTranslationTool/
 
-```markdown
+
 ![Language Translation Tool](screenshots/home.png)
-```
 
 ## Getting Started
 
 Clone the repository:
 
-```bash
+bash
 git clone https://github.com/ShynCode/CodeAlpha_LanguageTranslationTool.git
-```
+
 
 Navigate to the project directory:
 
-```bash
+bash
 cd CodeAlpha_LanguageTranslationTool
-```
 
-Open `index.html` in your preferred web browser.
+Open index.html in your preferred web browser.
 
 ## Author
 
